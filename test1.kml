@@ -6,7 +6,9 @@
   <Style><PolyStyle><fill>0</fill><outline>1</outline></PolyStyle></Style>
   <Placemark>
     <name>1</name>
-    <MultiGeometry><LineString><coordinates>-54.5085137,18.5451223 
+    <MultiGeometry><LineString><coordinates>
+      54.508513700000002,18.545122299999999,0
+      54.501561999999998 18.54207099999999,0
     </coordinates></LineString></MultiGeometry>
   </Placemark>
 </Document>
