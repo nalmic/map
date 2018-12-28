@@ -7,8 +7,7 @@
   <Placemark>
     <name>1</name>
     <MultiGeometry><LineString><coordinates>
-      54.508513700000002,18.545122299999999,0
-      54.501561999999998 18.54207099999999,0
+      18.545096600000001 54.508513700000002 18.545122299999999 54.508561999999998
     </coordinates></LineString></MultiGeometry>
   </Placemark>
 </Document>
